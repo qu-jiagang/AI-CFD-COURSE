@@ -23,7 +23,7 @@
 
 ## 神经网络
 PyTorch 是目前最受欢迎的神经网络框架。如果你有 NVIDIA GPU，请选择与你的 NVIDIA 驱动版本匹配的 CUDA 版本。
-![alt text](assets/images/torch-install-example.png)
+![alt text](image.png)
 
 ## CFD
 1. 推荐使用 Fluent 或 OpenFOAM 来生成流体场数据集。
